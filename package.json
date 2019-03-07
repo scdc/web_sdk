@@ -1,0 +1,19 @@
+{
+  "name": "adjust",
+  "version": "4.1.0",
+  "description": "Adjust Analytics Web SDK",
+  "main": "dist/adjust.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scdc/web_sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scdc/web_sdk/issues"
+  },
+  "homepage": "https://github.com/scdc/web_sdk#readme"
+}
